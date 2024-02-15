@@ -1,0 +1,29 @@
+@use "bootstrap";
+
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+    margin-top: 5%;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+
+    &.blue { 
+        background-color: aqua;
+    }
+    &.red { 
+        background-color: red;
+    }
+    &.green { 
+        background-color: green;
+    }
+    &.yellow { 
+        background-color: rgb(255, 217, 0);
+    }
+}
