@@ -1,8 +1,6 @@
 @use "bootstrap";
 
-
-
-.container {
+/**.container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -26,4 +24,32 @@
     &.yellow { 
         background-color: rgb(255, 217, 0);
     }
+}
+*/
+body{
+font-family: serif;
+}
+
+#app{
+    width: 1280px;
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+}
+.movie-grid{
+    width: 300px;
+    margin: 20px;
+    padding: 15px;
+    background-color: #aaa;
+}
+
+button{
+    margin-top: 100px;
+    display: flex;
+    margin-left: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    display: flex;
+
 }
