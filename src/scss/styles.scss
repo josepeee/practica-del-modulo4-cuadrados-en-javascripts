@@ -1,14 +1,18 @@
 @use "bootstrap";
 
-/**.container {
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 5%;
     margin-top: 5%;
 }
-
-.box {
+#box{
+    width: 200px;
+    height: 200px;
+    
+}
+#box, .box {
     width: 200px;
     height: 200px;
 
@@ -25,7 +29,7 @@
         background-color: rgb(255, 217, 0);
     }
 }
-*/
+
 body{
 font-family: serif;
 }
