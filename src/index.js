@@ -2,9 +2,10 @@ import "./scss/styles.scss";
 import "./exercise/movie-dom";
 import "./exercise/box-color";
 import "./exercise/formulario";
+import "./exercise/closure"
 
 // ejerciso de las cajas........................]
- function createbox(num) {
+  function createbox(num) {
 
      let container = document.querySelector(".container")
     
