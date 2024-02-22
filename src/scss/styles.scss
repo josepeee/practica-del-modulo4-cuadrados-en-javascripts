@@ -1,5 +1,7 @@
 @use "bootstrap";
 
+/*
+
 .container {
     display: flex;
     justify-content: center;
@@ -64,4 +66,22 @@ button{
     margin-right: 200px;
     background-color: green;
 
+}
+
+.buton{
+display: flex;
+margin-left: 200px;
+margin-top: 200px;
+}
+*/
+#box{
+    width: 100px;
+    height: 100px;
+    
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue ;
 }

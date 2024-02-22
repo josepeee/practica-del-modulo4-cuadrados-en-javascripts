@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/dgrauers/b14-mod5-practice#readme",
   "dependencies": {
-    "bootstrap": "^5.3.2"
+    "bootstrap": "^5.3.3"
   },
   "devDependencies": {
     "sass": "^1.70.0",
