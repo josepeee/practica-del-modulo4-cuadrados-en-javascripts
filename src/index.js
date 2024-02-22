@@ -4,7 +4,8 @@ import "./scss/styles.scss";
 // import "./exercise/formulario";
 // import "./exercise/closure";
 // import "./exercise/texto";
-   import"./exercise/box-Changes-Colors";
+//    import"./exercise/box-Changes-Colors";
+     import"./exercise/hours";
 
 // ejerciso de las cajas........................]
 //   function createbox(num) {
