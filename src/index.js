@@ -5,7 +5,9 @@ import "./scss/styles.scss";
 // import "./exercise/closure";
 // import "./exercise/texto";
 //    import"./exercise/box-Changes-Colors";
-     import"./exercise/hours";
+    // import"./exercise/hours";
+    // import "./exercise/class";
+    import"./exercise/input-tipo-number.js";
 
 // ejerciso de las cajas........................]
 //   function createbox(num) {
