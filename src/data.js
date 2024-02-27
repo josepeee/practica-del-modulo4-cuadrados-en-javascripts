@@ -1,13 +1,13 @@
-export const categories = Object.freeze({
+ export const categories = Object.freeze({
   drama: "Drama",
   action: "Action",
   crime: "Crime",
   biography: "Biography",
   adventure: "Adventure",
   comedy: "Comedy",
-});
+ });
 
-export const movies = [
+ export const movies = [
   {
     title: "Fight Club",
     director: "David Fincher",
@@ -258,4 +258,6 @@ export const movies = [
     category: "Drama",
     rating: 7.8,
   },
-];
+ ];
+
+ 

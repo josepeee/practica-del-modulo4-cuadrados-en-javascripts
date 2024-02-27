@@ -6,8 +6,18 @@ import "./scss/styles.scss";
 // import "./exercise/texto";
 //    import"./exercise/box-Changes-Colors";
     // import"./exercise/hours";
-    // import "./exercise/class";
-    import"./exercise/input-tipo-number.js";
+    //  import "./exercise/class";
+    // import"./exercise/input-tipo-number.js";
+     import"./exercise/setTimeout.js";
+    
+ 
+    // import { Movie} from ".js/movie/movie";
+
+    // const batmanMovie = new Movie("Batman", "El cabellero oscuro", 2010, 7.5);
+    // console.log(batmanMovie.isHighRating());
+     
+
+
 
 // ejerciso de las cajas........................]
 //   function createbox(num) {
