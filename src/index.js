@@ -11,8 +11,9 @@ import "./scss/styles.scss";
     //  import"./exercise/setTimeout.js";
      //import"./exercise/practica.js";
     //  import"./exercise/este.js";
-        import"./exercise/setInterval.js";
- 
+        // import"./exercise/setInterval.js";
+        // import"./exercise/promesa"
+         import"./exercise/api.js"
     // import { Movie} from ".js/movie/movie";
 
     // const batmanMovie = new Movie("Batman", "El cabellero oscuro", 2010, 7.5);
