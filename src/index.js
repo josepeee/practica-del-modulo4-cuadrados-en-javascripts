@@ -8,8 +8,10 @@ import "./scss/styles.scss";
     // import"./exercise/hours";
     //  import "./exercise/class";
     // import"./exercise/input-tipo-number.js";
-     import"./exercise/setTimeout.js";
-    
+    //  import"./exercise/setTimeout.js";
+     //import"./exercise/practica.js";
+    //  import"./exercise/este.js";
+        import"./exercise/setInterval.js";
  
     // import { Movie} from ".js/movie/movie";
 
