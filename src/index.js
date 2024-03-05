@@ -13,8 +13,9 @@ import "./scss/styles.scss";
     //  import"./exercise/este.js";
         // import"./exercise/setInterval.js";
         // import"./exercise/promesa"
-         import"./exercise/api.js"
+         //import"./exercise/api.js"
     // import { Movie} from ".js/movie/movie";
+    import"./exercise/depurar.js"
 
     // const batmanMovie = new Movie("Batman", "El cabellero oscuro", 2010, 7.5);
     // console.log(batmanMovie.isHighRating());
